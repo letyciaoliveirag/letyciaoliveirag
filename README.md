@@ -1,10 +1,12 @@
 <div align="center">
 
-# Letycia Oliveira
+# Olá! Eu sou a Letycia 👋
 
-**Desenvolvimento Front-end · Em busca de estágio**
+🎓 Estudante de Desenvolvimento Web com foco em Front-end  
+💻 Estudando HTML, CSS e JavaScript  
+🎨 Experiência em design gráfico 
 
-HTML, CSS e JavaScript — com olhar de designer.
+
 
 </div>
 
@@ -12,7 +14,7 @@ HTML, CSS e JavaScript — com olhar de designer.
 
 ### Sobre
 
-Estudo desenvolvimento web e gosto especialmente de programar interfaces com JavaScript. Minha experiência em design gráfico também me ajuda a pensar nos detalhes visuais dos projetos.
+Estudante de Desenvolvimento Web com foco em Front-end. Tenho conhecimentos em HTML, CSS e JavaScript e desenvolvo projetos práticos para aplicar o que estou aprendendo. Também tenho experiência em design gráfico, que contribui para meu cuidado com os detalhes visuais.
 
 ### Projetos
 
