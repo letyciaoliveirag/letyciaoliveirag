@@ -1,18 +1,35 @@
+<div align="center">
+
 # Letycia Oliveira
 
-**Estudante de Desenvolvimento Web · Buscando estágio em Front-end**
+**Desenvolvimento Front-end · Em busca de estágio**
 
-Estudo HTML, CSS e JavaScript e desenvolvo projetos para praticar programação. Tenho experiência em design gráfico, que complementa meu interesse por interfaces.
+HTML, CSS e JavaScript — com olhar de designer.
 
-## Projetos
+</div>
 
-- [Conversor de Dólar](https://github.com/letyciaoliveirag/conversor-de-dolar) — conversão de reais para dólares.
-- [Página 404](https://github.com/letyciaoliveirag/pagina-404) — página de erro interativa.
+---
 
-## Tecnologias
+### Sobre
 
-HTML · CSS · JavaScript · Git · GitHub · Figma
+Estudo desenvolvimento web e gosto especialmente de programar interfaces com JavaScript. Minha experiência em design gráfico também me ajuda a pensar nos detalhes visuais dos projetos.
 
-## Contato
+### Projetos
 
-[GitHub](https://github.com/letyciaoliveirag) · [E-mail](mailto:letyciaoliveirag@gmail.com)
+| Projeto | O que você vai encontrar |
+|---|---|
+
+| [Conversor de Dólar](https://github.com/letyciaoliveirag/conversor-de-dolar) | Conversão de reais para dólares |
+| [Página 404](https://github.com/letyciaoliveirag/pagina-404) | Página de erro interativa |
+
+### Tecnologias
+
+`HTML` `CSS` `JavaScript` `Git` `GitHub` `Figma`
+
+---
+
+<div align="center">
+
+Piracicaba, SP · [E-mail](mailto:letyciaoliveirag@gmail.com)
+
+</div>
