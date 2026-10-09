@@ -1,37 +1,49 @@
 <div align="center">
 
-# Olá! Eu sou a Letycia 👋
+![Banner programação](./image.png)
 
-🎓 Estudante de Desenvolvimento Web com foco em Front-end  
-💻 Estudando HTML, CSS e JavaScript  
-🎨 Experiência em design gráfico 
+
+
+## Oi, eu sou a Letycia 👋🏻
+
+Descobri a programação recentemente e me apaixonei por criar com código. Quanto mais aprendo, mais vontade tenho de entender, testar e construir coisas novas, e hoje não me imagino seguindo outro caminho profissional.
+
+Estou estudando desenvolvimento Front-end, com foco em HTML, CSS e JavaScript, e buscando minha primeira oportunidade de estágio na área. Minha experiência com design gráfico também faz parte da minha trajetória e aparece no cuidado que tenho com as interfaces que desenvolvo.
 
 
 
 </div>
 
+
+
+
 ---
 
-### Sobre
+### 🌙 Projetos
 
-Estudante de Desenvolvimento Web com foco em Front-end. Tenho conhecimentos em HTML, CSS e JavaScript e desenvolvo projetos práticos para aplicar o que estou aprendendo. Também tenho experiência em design gráfico, que contribui para meu cuidado com os detalhes visuais.
+**Previsão do Tempo**  
+Busca informações do clima a partir da cidade informada.  
+[Repositório](LINK_DO_REPOSITORIO)
 
-### Projetos
+**Conversor de Dólar**  
+Converte valores de reais para dólares.  
+[Repositório](https://github.com/letyciaoliveirag/conversor-de-dolar) · [Projeto publicado](https://letyciaoliveirag.github.io/conversor-de-dolar)
 
-| Projeto | O que você vai encontrar |
-|---|---|
+**Página 404**  
+Página de erro interativa criada com HTML, CSS e JavaScript.  
+[Repositório](https://github.com/letyciaoliveirag/pagina-404)
 
-| [Conversor de Dólar](https://github.com/letyciaoliveirag/conversor-de-dolar) | Conversão de reais para dólares |
-| [Página 404](https://github.com/letyciaoliveirag/pagina-404) | Página de erro interativa |
+---
 
-### Tecnologias
+### 🌙 Tecnologias
 
-`HTML` `CSS` `JavaScript` `Git` `GitHub` `Figma`
+`HTML` · `CSS` · `JavaScript` · `Git` · `GitHub` · `Figma`
 
 ---
 
 <div align="center">
 
-Piracicaba, SP · [E-mail](mailto:letyciaoliveirag@gmail.com)
+✦ · [GitHub](https://github.com/letyciaoliveirag) · [E-mail](mailto:letyciaoliveirag@gmail.com) · ✦
 
 </div>
+
