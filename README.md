@@ -1,6 +1,5 @@
 <div align="center">
 
-![Banner programação](./image.png)
 
 
 
@@ -20,10 +19,6 @@ Estou estudando desenvolvimento Front-end, com foco em HTML, CSS e JavaScript, e
 ---
 
 ### 🌙 Projetos
-
-**Previsão do Tempo**  
-Busca informações do clima a partir da cidade informada.  
-[Repositório](LINK_DO_REPOSITORIO)
 
 **Conversor de Dólar**  
 Converte valores de reais para dólares.  
